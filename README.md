@@ -84,4 +84,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License.
 
-[project link](https://github.com/Isaiah-Ambi/CLI-TaskTracker)
+[project URL](https://github.com/Isaiah-Ambi/CLI-TaskTracker)
