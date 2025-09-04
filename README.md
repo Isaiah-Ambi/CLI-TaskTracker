@@ -1,4 +1,5 @@
 # TaskTracker
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 
 TaskTracker is a command-line application for managing tasks. It allows users to add, update, delete, and list tasks, providing a simple way to keep track of your to-do items.
 
@@ -83,5 +84,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License.
-
-[project URL](https://github.com/Isaiah-Ambi/CLI-TaskTracker)
